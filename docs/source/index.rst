@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+VNXOSO - Nhà cái cá cược xổ số trực tuyến hàng đầu châu Á với trải nghiệm đa dạng và uy tín vượt trội
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`VNXOSO <https://vnsoxo.fun/>`_ là nhà cái cá cược xổ số trực tuyến hàng đầu châu Á, ra đời từ năm 2010 được người chơi yêu thích và tham gia. Với uy tín và sự chuyên nghiệp, VNXOSO mang đến cho người chơi trải nghiệm xổ số độc đáo, kết hợp nhiều loại hình giải trí như thể thao, casino, bắn cá, và nổ hũ. Được cấp phép bởi Ủy ban cờ bạc PAGCOR và chứng nhận an toàn bởi GEOTRUST, VNXOSO cam kết minh bạch và bảo mật tối đa. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Ngoài việc cung cấp các sản phẩm đa dạng, VNXOSO còn nổi bật với dịch vụ chăm sóc khách hàng tận tâm, cùng nhiều chương trình khuyến mãi hấp dẫn. VNXOSO trở thành điểm đến lý tưởng cho những người yêu thích xổ số và cá cược trực tuyến, đã ghi dấu ấn mạnh mẽ tại thị trường Việt Nam và các nước châu Á như Trung Quốc, Thái Lan, Đài Loan.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 19H Hẻm B10, Tổ 10, Bình Chánh, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0890388541. 
 
-.. toctree::
+Email: info@vnsoxo.fun. 
 
-   usage
-   api
+Website: https://vnsoxo.fun/
+
+#vnsoxo #nhacaivnsoxo #trangchuvnsoxo #dangkyvnsoxo #linkvnsoxo
